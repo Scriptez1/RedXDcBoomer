@@ -38,4 +38,4 @@ Useful to Explode Discord Servers! - Discord Sunucularını Patlatmak İçin Fay
 
 ![image](https://github.com/Scriptez1/RedXDcBoomer/assets/96830819/81748eb9-9558-41b6-b7d6-2f5e8c3ee53a)
 
-<p>## Don't forget to give stars. 🌟🌟🌟 - Yıldız vermeyi unutmayın. 🌟🌟🌟</p>
+## Don't forget to give stars. 🌟🌟🌟 - Yıldız vermeyi unutmayın. 🌟🌟🌟
