@@ -1,5 +1,7 @@
 <img alt="followers" title="Follow" src="https://img.shields.io/github/followers/Scriptez1?color=ff0000&style=for-the-badge&logo=github&label=Follow"/> <img alt="stars" title="Stars" src="https://img.shields.io/github/stars/Scriptez1/RedXDcBoomer?color=FFFF00&style=for-the-badge&logo=github&label=Stars"/> <img alt="forks" title="Forks" src="https://img.shields.io/github/forks/Scriptez1/RedXDcBoomer?color=4455dd&style=for-the-badge&logo=github&label=Forks"/> <img alt="contributors" title="Contributors" src="https://img.shields.io/github/contributors/Scriptez1/RedXDcBoomer?color=527826&style=for-the-badge&logo=github&label=Contributors"/> <img alt="issues" title="Issues" src="https://img.shields.io/github/issues/Scriptez1/RedXDcBoomer?color=fffbbb&style=for-the-badge&logo=github&label=Issues"/> <img alt="license" title="License" src="https://img.shields.io/github/license/Scriptez1/RedXDcBoomer?color=FF7F00&style=for-the-badge&logo=github&label=License"/>
 
+Download Link : https://github.com/Scriptez1/RedXDcBoomer/releases/tag/RedXDcBoomer
+
 # RedXDcBoomer
 Useful to Explode Discord Servers! - Discord Sunucularını Patlatmak İçin Faydalıdır!
 ```
@@ -11,14 +13,14 @@ Useful to Explode Discord Servers! - Discord Sunucularını Patlatmak İçin Fay
 ╚═╝░░╚═╝ ╚══════╝ ╚═════╝░ ╚═╝░░╚═╝
 ```
 
-<p>Need Modules - Gereken Modüller:</p>
+# Need Modules - Gereken Modüller:
 
 * open ```RedXBoomer\Run.bat``` and it will download all modules. - ```RedXBoomer\Run.bat``` dosyasını açınca tüm modüller inecektir.
 * ```node.js```
 
 -----------------------------------
 
-<p>How To Use? - Nasıl Kullanılır:</p>
+# How To Use? - Nasıl Kullanılır:
 
 * open ````RedXDcBoomer\Run.bat```` and close - ```RedXBoomer\Run.bat``` dosyasını aç ve kapat
 
